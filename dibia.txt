@@ -1,0 +1,9 @@
+5: 
+snake_case
+lazyDog
+quick_Fox
+operand2
+
+6:
+
+
