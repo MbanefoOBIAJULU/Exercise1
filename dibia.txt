@@ -1,9 +1,17 @@
 5: 
+index
 snake_case
 lazyDog
-quick_Fox
 operand2
 
 6:
+lazyDog
 
+7"
+NONE
 
+8:
+catName 
+quick_Fox
+1stCharacter
+BIG_NUMBER
